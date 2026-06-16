@@ -103,7 +103,7 @@ st.markdown(
 # DATA LOADING
 # --------------------------------------------------
 
-df = pd.read_csv("./Gaming_Academic_Performance.csv")
+df = pd.read_csv("Gaming_Academic_Performance.csv")
 
 # --------------------------------------------------
 # NAVIGATION
